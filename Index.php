@@ -7,6 +7,6 @@
     <title>Index</title>
 </head>
 <body>
-    
+    <form action=""></form>
 </body>
 </html>
